@@ -6,4 +6,3 @@ Uproszczenie interfejsu graficznego
 Zmiana08a
 Zmiana09a
 Zmiana10a
-Zmiana12
