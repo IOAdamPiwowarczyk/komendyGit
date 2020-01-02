@@ -3,4 +3,5 @@ naprawa bledow - hotFix-001
 oraz
 Dodano asystenta pomocy
 Uproszczenie interfejsu graficznego
-Zmiana8a
+Zmiana08a
+Zmiana09a
